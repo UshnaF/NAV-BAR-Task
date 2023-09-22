@@ -1,0 +1,42 @@
+h1{
+    position: relative;
+    color: black;
+    text-align: center;
+   
+
+}
+
+img{
+    width: 400px;
+    height:300px;
+    margin-right:100px;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-width: 10px;
+    border-style:solid;
+    border-color:black;
+    
+}
+
+.navDiv ul{
+    background-color:navy;
+    background-origin: border-box;
+    text-align: center;
+
+}
+.navDiv{
+    
+}
+li{
+
+   list-style: none;
+   display:inline;
+   font-weight: bold;
+}
+li a{
+  
+   color:cornsilk;
+   font-size: 18px;
+   margin-right: 50px;
+}
+
